@@ -1,12 +1,15 @@
 // File: src/main/java/com/flipfit/bean/Book.java
 package com.flipfit.bean;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+
 import java.util.Date;
 
 public class Book {
     private int id;
     private String title;
     private int authorId;
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
     private Date publishedDate;
     private String isbn;
 
