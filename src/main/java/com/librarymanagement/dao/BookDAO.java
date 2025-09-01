@@ -1,8 +1,8 @@
 // File: src/main/java/com/flipfit/dao/BookDAO.java
-package com.flipfit.dao;
+package com.librarymanagement.dao;
 
-import com.flipfit.bean.Book;
-import com.flipfit.utils.DBConnection;
+import com.librarymanagement.models.Book;
+import com.librarymanagement.utils.DBConnection;
 
 import java.sql.*;
 import java.util.ArrayList;

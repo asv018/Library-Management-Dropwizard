@@ -1,8 +1,8 @@
 // File: src/main/java/com/flipfit/resources/AuthorResource.java
-package com.flipfit.resources;
+package com.librarymanagement.resources;
 
-import com.flipfit.bean.Author;
-import com.flipfit.business.AuthorBusiness;
+import com.librarymanagement.models.Author;
+import com.librarymanagement.business.AuthorBusiness;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;

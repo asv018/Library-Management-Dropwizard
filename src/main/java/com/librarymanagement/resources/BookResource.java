@@ -1,8 +1,8 @@
 // File: src/main/java/com/flipfit/resources/BookResource.java
-package com.flipfit.resources;
+package com.librarymanagement.resources;
 
-import com.flipfit.bean.Book;
-import com.flipfit.business.BookBusiness;
+import com.librarymanagement.models.Book;
+import com.librarymanagement.business.BookBusiness;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;

@@ -1,8 +1,8 @@
 // File: src/main/java/com/flipfit/dao/AuthorDAO.java
-package com.flipfit.dao;
+package com.librarymanagement.dao;
 
-import com.flipfit.bean.Author;
-import com.flipfit.utils.DBConnection;
+import com.librarymanagement.models.Author;
+import com.librarymanagement.utils.DBConnection;
 
 import java.sql.*;
 import java.util.ArrayList;

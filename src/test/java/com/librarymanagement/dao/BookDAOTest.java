@@ -1,8 +1,8 @@
 // File: src/test/java/com/flipfit/dao/BookDAOTest.java
-package com.flipfit.dao;
+package com.librarymanagement.dao;
 
-import com.flipfit.bean.Book;
-import com.flipfit.utils.DBConnection;
+import com.librarymanagement.models.Book;
+import com.librarymanagement.utils.DBConnection;
 import org.junit.jupiter.api.*;
 
 import java.sql.Connection;

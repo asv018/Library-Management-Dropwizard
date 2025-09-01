@@ -1,8 +1,8 @@
 // File: src/main/java/com/flipfit/business/AuthorBusiness.java
-package com.flipfit.business;
+package com.librarymanagement.business;
 
-import com.flipfit.bean.Author;
-import com.flipfit.dao.AuthorDAO;
+import com.librarymanagement.models.Author;
+import com.librarymanagement.dao.AuthorDAO;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.flipfit.utils;
+package com.librarymanagement.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

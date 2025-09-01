@@ -1,9 +1,9 @@
 // File: src/main/java/com/flipfit/business/BookBusiness.java
-package com.flipfit.business;
+package com.librarymanagement.business;
 
-import com.flipfit.bean.Book;
+import com.librarymanagement.models.Book;
 //import com.dropwizard.flipfit.dao.BookDAO;
-import com.flipfit.dao.BookDAO;
+import com.librarymanagement.dao.BookDAO;
 
 import java.util.List;
 import java.util.Optional;

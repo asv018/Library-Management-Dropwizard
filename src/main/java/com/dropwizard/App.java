@@ -12,16 +12,16 @@ import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 
 // Import the resource classes
-import com.flipfit.resources.AuthorResource;
-import com.flipfit.resources.BookResource;
+import com.librarymanagement.resources.AuthorResource;
+import com.librarymanagement.resources.BookResource;
 
 // Import the business classes
-import com.flipfit.business.AuthorBusiness;
-import com.flipfit.business.BookBusiness;
+import com.librarymanagement.business.AuthorBusiness;
+import com.librarymanagement.business.BookBusiness;
 
 // Import the DAO classes
-import com.flipfit.dao.AuthorDAO;
-import com.flipfit.dao.BookDAO;
+import com.librarymanagement.dao.AuthorDAO;
+import com.librarymanagement.dao.BookDAO;
 
 public class App extends Application<Configuration> {
     
@@ -93,3 +93,4 @@ public class App extends Application<Configuration> {
         new App().run(args);
     }
 }
+
