@@ -85,8 +85,6 @@ public class App extends Application<Configuration> {
         environment.jersey().register(new BookResource(bookBusiness));
         LOGGER.info("Registered BookResource at /books");
         
-        // You can add more resources here as your application grows
-        // For example: GenreResource, PublisherResource, etc.
     }
     
     public static void main(String[] args) throws Exception {
