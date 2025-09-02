@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.dropwizard"},{"l":"com.librarymanagement.business"},{"l":"com.librarymanagement.dao"},{"l":"com.librarymanagement.models"},{"l":"com.librarymanagement.resources"},{"l":"com.librarymanagement.utils"}];updateSearchResults();

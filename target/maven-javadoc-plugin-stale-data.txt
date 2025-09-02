@@ -27,11 +27,11 @@
 -windowtitle
 'flipfit_d 1.0-SNAPSHOT API'
 com.dropwizard
-com.flipfit.bean
-com.flipfit.resources
-com.flipfit.business
-com.flipfit.dao
-com.flipfit.utils
+com.librarymanagement.resources
+com.librarymanagement.business
+com.librarymanagement.dao
+com.librarymanagement.utils
+com.librarymanagement.models
 /Users/arpit.singhverma/.m2/repository/io/dropwizard/dropwizard-core/2.0.33/dropwizard-core-2.0.33.jar = 1662979214000
 /Users/arpit.singhverma/.m2/repository/io/dropwizard/dropwizard-util/2.0.33/dropwizard-util-2.0.33.jar = 1662979204000
 /Users/arpit.singhverma/.m2/repository/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar = 1646083138000
@@ -121,21 +121,21 @@ com.flipfit.utils
 /Users/arpit.singhverma/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar = 1681683093000
 /Users/arpit.singhverma/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar = 1666818740000
 /Users/arpit.singhverma/random2/src/main/java = 1756613657574
-/Users/arpit.singhverma/random2/target/generated-sources/annotations = 1756710415667
-/Users/arpit.singhverma/random2/target/apidocs/tag-search-index.js = 1756710419291
-/Users/arpit.singhverma/random2/target/apidocs/overview-tree.html = 1756710419276
-/Users/arpit.singhverma/random2/target/apidocs/module-search-index.js = 1756710419289
-/Users/arpit.singhverma/random2/target/apidocs/index.html = 1756710419278
-/Users/arpit.singhverma/random2/target/apidocs/package-search-index.js = 1756710419289
-/Users/arpit.singhverma/random2/target/apidocs/jquery-ui.overrides.css = 1756710419305
-/Users/arpit.singhverma/random2/target/apidocs/index-all.html = 1756710419298
-/Users/arpit.singhverma/random2/target/apidocs/allpackages-index.html = 1756710419288
-/Users/arpit.singhverma/random2/target/apidocs/member-search-index.js = 1756710419290
-/Users/arpit.singhverma/random2/target/apidocs/script.js = 1756710419302
-/Users/arpit.singhverma/random2/target/apidocs/stylesheet.css = 1756710419302
-/Users/arpit.singhverma/random2/target/apidocs/overview-summary.html = 1756710419299
-/Users/arpit.singhverma/random2/target/apidocs/help-doc.html = 1756710419301
-/Users/arpit.singhverma/random2/target/apidocs/element-list = 1756710419233
-/Users/arpit.singhverma/random2/target/apidocs/allclasses-index.html = 1756710419287
-/Users/arpit.singhverma/random2/target/apidocs/type-search-index.js = 1756710419289
-/Users/arpit.singhverma/random2/target/apidocs/search.js = 1756710419303
+/Users/arpit.singhverma/random2/target/generated-sources/annotations = 1756781852634
+/Users/arpit.singhverma/random2/target/apidocs/tag-search-index.js = 1756781858934
+/Users/arpit.singhverma/random2/target/apidocs/overview-tree.html = 1756781858919
+/Users/arpit.singhverma/random2/target/apidocs/module-search-index.js = 1756781858933
+/Users/arpit.singhverma/random2/target/apidocs/index.html = 1756781858921
+/Users/arpit.singhverma/random2/target/apidocs/package-search-index.js = 1756781858934
+/Users/arpit.singhverma/random2/target/apidocs/jquery-ui.overrides.css = 1756781858953
+/Users/arpit.singhverma/random2/target/apidocs/index-all.html = 1756781858945
+/Users/arpit.singhverma/random2/target/apidocs/allpackages-index.html = 1756781858932
+/Users/arpit.singhverma/random2/target/apidocs/member-search-index.js = 1756781858934
+/Users/arpit.singhverma/random2/target/apidocs/script.js = 1756781858951
+/Users/arpit.singhverma/random2/target/apidocs/stylesheet.css = 1756781858950
+/Users/arpit.singhverma/random2/target/apidocs/overview-summary.html = 1756781858947
+/Users/arpit.singhverma/random2/target/apidocs/help-doc.html = 1756781858949
+/Users/arpit.singhverma/random2/target/apidocs/element-list = 1756781858858
+/Users/arpit.singhverma/random2/target/apidocs/allclasses-index.html = 1756781858931
+/Users/arpit.singhverma/random2/target/apidocs/type-search-index.js = 1756781858934
+/Users/arpit.singhverma/random2/target/apidocs/search.js = 1756781858951
