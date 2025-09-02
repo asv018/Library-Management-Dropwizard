@@ -1,4 +1,4 @@
-// File: src/main/java/com/flipfit/bean/Book.java
+// File: src/main/java/com/library_management/bean/Book.java
 package com.librarymanagement.models;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
